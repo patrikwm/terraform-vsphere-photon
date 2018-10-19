@@ -1,0 +1,12 @@
+variable "vsphere_server" {}
+variable "esxi_server" {}
+variable "vsphere_user" {}
+variable "vsphere_password" {}
+variable "vsphere_datastore" {}
+variable "vsphere_datacenter" {}
+variable "vsphere_resourcepool" {}
+variable "vsphere_cluster" {}
+variable "vm_name" {}
+variable "vm_network" {}
+variable "vm_folder" {}
+variable "vm_template" {}
